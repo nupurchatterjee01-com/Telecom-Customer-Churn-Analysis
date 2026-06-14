@@ -2,46 +2,46 @@
 1. Project Title :
  Telecom Customer Churn Analysis & Retention Strategy Dashboard
 
-2. Purpose of the Project
+2. Purpose of the Project : 
 The purpose of this project is to analyze customer churn patterns, identify the key factors driving customer attrition, measure the financial impact of churn, and provide actionable insights that help the telecom company improve customer retention and reduce revenue loss.
 
-3. Tech Stack
+3. Tech Stack: 
 Power BI – Dashboard development and data visualization
 Power Query – Data cleaning and transformation
 DAX (Data Analysis Expressions) – KPI calculations and business metrics
 Excel  – Source data for analysis
 
-4. Data Source
+4. Data Source : 
    Kaggle
 
 
-5. Features
+5. Features : 
 
-1. Introduction -
+1. Introduction - 
 Customer churn is a major challenge in the telecom industry because losing customers directly impacts revenue and profitability. This dashboard analyzes churn patterns, customer behavior, and business impact to support data-driven retention strategies.
 
-2. Business Problem -
+2. Business Problem - 
 The company is experiencing customer attrition, resulting in revenue loss and reduced customer lifetime value. The goal is to identify the key drivers of churn and prioritize customers who are most likely to leave.
 
-3. Dashboard Goal -
+3. Dashboard Goal - 
 . Measure overall churn performance.
 . Identify high-risk customer segments.
 . Understand churn drivers.
 . Quantify revenue impact.
 . Support retention decision-making.
 
-4. Explain Key Visuals
+4. Key Visuals : 
 
-a)Churn Rate by Payment Method
+a)Churn Rate by Payment Method :
 The highest churn rate is observed among customers using Electronic Check payments.
 
 Story:
 Customers using electronic checks may have lower engagement levels or less commitment to the service. Customers enrolled in automated payment methods such as bank transfer or credit card show comparatively lower churn, indicating stronger customer stickiness.
 
-Business Meaning:
+Business Meaning: 
 Promoting automatic payment enrollment could improve retention.
 
-c)Churn Rate by Contract Type
+c)Churn Rate by Contract Type :
 Month-to-month customers exhibit significantly higher churn compared to one-year and two-year contract customers.
 
 Story:
@@ -50,7 +50,7 @@ Customers without long-term commitments can leave the service at any time. Longe
 Business Meaning:
 The contract model is one of the strongest predictors of churn.
 
-d)Churn Customers by Internet Service
+d)Churn Customers by Internet Service :
 Fiber optic customers account for the largest share of churned customers.
 
 Story:
@@ -59,7 +59,7 @@ Although fiber optic customers often purchase premium services, they are also mo
 Business Meaning:
 A large portion of lost revenue originates from fiber customers, making them a critical retention segment.
 
-e)Revenue Loss by Contract
+e)Revenue Loss by Contract :
 Revenue loss is overwhelmingly concentrated among month-to-month customers.
 
 Story:
@@ -68,7 +68,7 @@ The customers most likely to churn are also generating the largest revenue leaka
 Business Meaning:
 Reducing churn within this group would create the biggest financial return.
 
-f)Risk Type Distribution
+f)Risk Type Distribution :
 Most customers belong to the normal-risk category, while a smaller segment is classified as high-risk.
 
 Story:
@@ -86,7 +86,7 @@ Customers who use additional services become more integrated into the ecosystem 
 Business Meaning:
 Cross-selling value-added services can improve retention and increase customer loyalty.
 
-h)Churn by Tenure Group
+h)Churn by Tenure Group :
 Customers in their first year (0–12 months) account for the highest churn volume.
 
 Story:
@@ -96,7 +96,7 @@ Business Meaning:
 Improving onboarding and early engagement can significantly reduce churn.
 
 
-5. Insights
+5. Insights :
 
 Insight 1: Churn Rate is High
 .Overall churn rate stands at 26.54%.
@@ -123,7 +123,7 @@ Insight 5: Service Adoption Improves Retention
 Insight 6: High-Risk Segments Can Be Identified
 .Risk segmentation allows proactive intervention before customers leave.
 
-6. Business Impact:
+6. Business Impact: 
 
 (1)Revenue Protection
 Reducing churn among month-to-month and fiber optic customers can directly recover a significant portion of the 139K revenue currently being lost.
