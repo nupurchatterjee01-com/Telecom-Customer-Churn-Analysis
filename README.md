@@ -1,5 +1,5 @@
 
-1. Project Title
+1. Project Title :
  Telecom Customer Churn Analysis & Retention Strategy Dashboard
 
 2. Purpose of the Project
