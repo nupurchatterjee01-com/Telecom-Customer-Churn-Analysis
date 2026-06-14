@@ -17,18 +17,19 @@ Excel  – Source data for analysis
 
 5. Features : 
 
-1. Introduction - 
+A. Introduction - 
 Customer churn is a major challenge in the telecom industry because losing customers directly impacts revenue and profitability. This dashboard analyzes churn patterns, customer behavior, and business impact to support data-driven retention strategies.
 
-2. Business Problem - 
+B. Business Problem - 
 The company is experiencing customer attrition, resulting in revenue loss and reduced customer lifetime value. The goal is to identify the key drivers of churn and prioritize customers who are most likely to leave.
 
-3. Dashboard Goal - 
+C. Dashboard Goal - 
 . Measure overall churn performance.
 . Identify high-risk customer segments.
 . Understand churn drivers.
 . Quantify revenue impact.
 . Support retention decision-making.
+
 
 4. Key Visuals : 
 
@@ -41,7 +42,7 @@ Customers using electronic checks may have lower engagement levels or less commi
 Business Meaning: 
 Promoting automatic payment enrollment could improve retention.
 
-c)Churn Rate by Contract Type :
+b)Churn Rate by Contract Type :
 Month-to-month customers exhibit significantly higher churn compared to one-year and two-year contract customers.
 
 Story:
@@ -50,7 +51,7 @@ Customers without long-term commitments can leave the service at any time. Longe
 Business Meaning:
 The contract model is one of the strongest predictors of churn.
 
-d)Churn Customers by Internet Service :
+c)Churn Customers by Internet Service :
 Fiber optic customers account for the largest share of churned customers.
 
 Story:
@@ -59,7 +60,7 @@ Although fiber optic customers often purchase premium services, they are also mo
 Business Meaning:
 A large portion of lost revenue originates from fiber customers, making them a critical retention segment.
 
-e)Revenue Loss by Contract :
+d)Revenue Loss by Contract :
 Revenue loss is overwhelmingly concentrated among month-to-month customers.
 
 Story:
@@ -68,7 +69,7 @@ The customers most likely to churn are also generating the largest revenue leaka
 Business Meaning:
 Reducing churn within this group would create the biggest financial return.
 
-f)Risk Type Distribution :
+e)Risk Type Distribution :
 Most customers belong to the normal-risk category, while a smaller segment is classified as high-risk.
 
 Story:
@@ -77,7 +78,7 @@ Although high-risk customers represent a smaller population, they are responsibl
 Business Meaning:
 Targeted retention campaigns can be more effective than broad customer outreach.
 
-g)Tech Support & Online Security Analysis
+f)Tech Support & Online Security Analysis
 Customers without Tech Support and Online Security services show much higher churn.
 
 Story:
@@ -86,7 +87,7 @@ Customers who use additional services become more integrated into the ecosystem 
 Business Meaning:
 Cross-selling value-added services can improve retention and increase customer loyalty.
 
-h)Churn by Tenure Group :
+g)Churn by Tenure Group :
 Customers in their first year (0–12 months) account for the highest churn volume.
 
 Story:
