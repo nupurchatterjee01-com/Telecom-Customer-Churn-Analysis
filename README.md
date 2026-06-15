@@ -7,7 +7,7 @@ The purpose of this project is to analyze customer churn patterns, identify the 
 
 3. Tech Stack: 
 Power BI – Dashboard development and data visualization
-Power Query – Data cleaning and transformation
+Excel – Data cleaning and transformation
 DAX (Data Analysis Expressions) – KPI calculations and business metrics
 Excel  – Source data for analysis
 
@@ -17,13 +17,13 @@ Excel  – Source data for analysis
 
 5. Features : 
 
-A. Introduction - 
+Introduction - 
 Customer churn is a major challenge in the telecom industry because losing customers directly impacts revenue and profitability. This dashboard analyzes churn patterns, customer behavior, and business impact to support data-driven retention strategies.
 
-B. Business Problem - 
+Business Problem - 
 The company is experiencing customer attrition, resulting in revenue loss and reduced customer lifetime value. The goal is to identify the key drivers of churn and prioritize customers who are most likely to leave.
 
-C. Dashboard Goal - 
+Dashboard Goal - 
 . Measure overall churn performance.
 . Identify high-risk customer segments.
 . Understand churn drivers.
@@ -31,7 +31,7 @@ C. Dashboard Goal -
 . Support retention decision-making.
 
 
-4. Key Visuals : 
+Key Visuals : 
 
 a)Churn Rate by Payment Method :
 The highest churn rate is observed among customers using Electronic Check payments.
@@ -69,6 +69,7 @@ The customers most likely to churn are also generating the largest revenue leaka
 Business Meaning:
 Reducing churn within this group would create the biggest financial return.
 
+
 e)Risk Type Distribution :
 Most customers belong to the normal-risk category, while a smaller segment is classified as high-risk.
 
@@ -97,9 +98,9 @@ Business Meaning:
 Improving onboarding and early engagement can significantly reduce churn.
 
 
-5. Insights :
+ Insights :
 
-Insight 1: Churn Rate is High
+ Insight 1: Churn Rate is High
 .Overall churn rate stands at 26.54%.
 .More than one out of every four customers leaves the company.
 
@@ -124,7 +125,7 @@ Insight 5: Service Adoption Improves Retention
 Insight 6: High-Risk Segments Can Be Identified
 .Risk segmentation allows proactive intervention before customers leave.
 
-6. Business Impact: 
+Business Impact: 
 
 (1)Revenue Protection
 Reducing churn among month-to-month and fiber optic customers can directly recover a significant portion of the 139K revenue currently being lost.
@@ -137,6 +138,7 @@ Risk-based targeting allows marketing and customer success teams to focus resour
 
 
 Screenshot Of Project:
+
 
 
 
