@@ -144,6 +144,9 @@ https://github.com/nupurchatterjee01-com/Telecom-Customer-Churn-Analysis/blob/ma
 2.Customer_Behaviour_Analysis :
 https://github.com/nupurchatterjee01-com/Telecom-Customer-Churn-Analysis/blob/main/2.%20Customer_Behaviour_Analysis.png
 
+3.Retention_Strategy_Dashboard :
+https://github.com/nupurchatterjee01-com/Telecom-Customer-Churn-Analysis/blob/main/3.Retention_strategy_Dashboard.png
+
 
 
 
