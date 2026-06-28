@@ -109,29 +109,49 @@ Improving onboarding and early engagement can significantly reduce churn.
  Insights :
 
  Insight 1: Churn Rate is High
+ 
 .Overall churn rate stands at 26.54%.
+
 .More than one out of every four customers leaves the company.
 
+
 Insight 2: Month-to-Month Customers Are the Largest Risk
+
 .Highest churn rate.
+
 .Highest revenue loss contribution.
+
 .Largest retention opportunity.
 
+
+
 Insight 3: Fiber Optic Customers Drive Revenue Loss
+
 .Largest number of churn customers.
+
 .Largest revenue leakage.
+
 .High-value segment requiring immediate attention.
 
 Insight 4: Early-Tenure Customers Are Most Vulnerable
+
 .Majority of churn occurs within the first year.
+
 .Customer onboarding needs improvement.
 
 Insight 5: Service Adoption Improves Retention
+
 .Customers with Tech Support and Online Security are less likely to churn.
+
 .Additional services increase customer stickiness.
 
 Insight 6: High-Risk Segments Can Be Identified
+
 .Risk segmentation allows proactive intervention before customers leave.
+
+
+
+
 
 Business Impact: 
 
