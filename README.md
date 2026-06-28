@@ -23,11 +23,19 @@ Customer churn is a major challenge in the telecom industry because losing custo
 Business Problem - 
 The company is experiencing customer attrition, resulting in revenue loss and reduced customer lifetime value. The goal is to identify the key drivers of churn and prioritize customers who are most likely to leave.
 
+
+
 Dashboard Goal - 
+
 . Measure overall churn performance.
+
 . Identify high-risk customer segments.
+
 . Understand churn drivers.
+
 . Quantify revenue impact.
+
+
 . Support retention decision-making.
 
 
